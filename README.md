@@ -1,10 +1,13 @@
-### Tutorial sobre pinos da controladora Maker Base MKS Gen L v.21
+## Tutorial sobre pinos da controladora Maker Base MKS Gen L v.21
 
 [Documentação geral sobre as controladoras Makerbase MKS Gen](https://github.com/edilsoncorrea/MKS-GEN_L)
 
-[PDFs da placa MKS Gen L v2.1](https://github.com/edilsoncorrea/MKS-GEN_L/tree/master/hardware/MKS%20Gen_L%20V2.1_001)
+### Imagens da placa de circuito impresso
 
-[Visão to topo](https://github.com/edilsoncorrea/MKS-GEN_L/blob/master/hardware/MKS%20Gen_L%20V2.1_001/MKS%20GEN_L%20V2.1_001%20TOP.pdf)
+Para verificar uma lista de todos os PDFs em vários ângulos, inclusive um com o diagrama esquemático, [clique aqui](https://github.com/edilsoncorrea/MKS-GEN_L/tree/master/hardware/MKS%20Gen_L%20V2.1_001)
+
+Para verificar o pdf com a visão de topo da plava 
+[ciique aqui](https://github.com/edilsoncorrea/MKS-GEN_L/blob/master/hardware/MKS%20Gen_L%20V2.1_001/MKS%20GEN_L%20V2.1_001%20TOP.pdf)
 
 Manual da placa no site da Makerbase versão 1. Clique [aqqui](https://www.botnroll.com/img/cms/MKS-Gen-L.pdf)
 
