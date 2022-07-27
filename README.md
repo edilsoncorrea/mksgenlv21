@@ -11,6 +11,9 @@ Para verificar o pdf com a visão de topo da placa
 
 Manual da placa no site da Makerbase versão 1. [Clique aqui](https://www.botnroll.com/img/cms/MKS-Gen-L.pdf)
 
+### Configurações para a Ender 3 que podem ser úteis para comparação
+[MKS GEN L V2 Marlin Firmware for Ender 3](https://github.com/MasterPuffin/MKS-GEN-L-V2-Marlin-Firmware-for-Ender-3)
+
 ### Tutorial sobre a MKS Gen L e o TMC2209 
 Este documento é extenso e detalhado, incluindo os jumpers para sensorless. Leitura completa recomendada. [Clique aqui](https://github.com/makerbase-mks/MKS-GEN_L/wiki/Drivers_MKS_TMC2209)
 
