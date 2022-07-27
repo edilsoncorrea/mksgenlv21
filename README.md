@@ -6,13 +6,13 @@
 
 Para verificar uma lista de todos os PDFs em vários ângulos, inclusive um com o diagrama esquemático, [clique aqui](https://github.com/edilsoncorrea/MKS-GEN_L/tree/master/hardware/MKS%20Gen_L%20V2.1_001)
 
-Para verificar o pdf com a visão de topo da plava 
-[ciique aqui](https://github.com/edilsoncorrea/MKS-GEN_L/blob/master/hardware/MKS%20Gen_L%20V2.1_001/MKS%20GEN_L%20V2.1_001%20TOP.pdf)
+Para verificar o pdf com a visão de topo da placa 
+[clique aqui](https://github.com/edilsoncorrea/MKS-GEN_L/blob/master/hardware/MKS%20Gen_L%20V2.1_001/MKS%20GEN_L%20V2.1_001%20TOP.pdf)
 
-Manual da placa no site da Makerbase versão 1. Clique [aqqui](https://www.botnroll.com/img/cms/MKS-Gen-L.pdf)
+Manual da placa no site da Makerbase versão 1. [Clique aqui](https://www.botnroll.com/img/cms/MKS-Gen-L.pdf)
 
 ### Tutorial sobre a MKS Gen L e o TMC2209 
-Este documento é extenso e detalhado, incluindo os jumpers para sensorless. Leitura completa recomendada. Clique [aqui](https://github.com/makerbase-mks/MKS-GEN_L/wiki/Drivers_MKS_TMC2209)
+Este documento é extenso e detalhado, incluindo os jumpers para sensorless. Leitura completa recomendada. [Clique aqui](https://github.com/makerbase-mks/MKS-GEN_L/wiki/Drivers_MKS_TMC2209)
 
 ### Tutoriais sobre sensorless no TMC2209
 Este tutorial é sobre outra controladora, mas o conceito dos drives sensorless é o mesmo
