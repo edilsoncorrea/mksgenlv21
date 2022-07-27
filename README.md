@@ -17,6 +17,9 @@ Manual da placa no site da Makerbase versão 1. [Clique aqui](https://www.botnro
 ### Tutorial sobre a MKS Gen L e o TMC2209 
 Este documento é extenso e detalhado, incluindo os jumpers para sensorless. Leitura completa recomendada. [Clique aqui](https://github.com/makerbase-mks/MKS-GEN_L/wiki/Drivers_MKS_TMC2209)
 
+### Tutorial da Teachibg Tech sobre a troca da placa original de Ender 3 para uma MKS Gen L
+[Easy and cheap Ender 3 mainboard upgrade: MKS Gen L guide](https://www.youtube.com/watch?v=LNdMYgwez8Y&t=29)
+
 ### Tutoriais sobre sensorless no TMC2209
 Este tutorial é sobre outra controladora, mas o conceito dos drives sensorless é o mesmo
 Clique [TMC2209 Stepper Drivers - Bigtreetech - SKR 1.3 - Install - Chris's Basement](https://www.youtube.com/watch?v=H5ea2iyOscg)
