@@ -8,6 +8,9 @@
 
 Manual da placa no site da Makerbase versão 1. Clique [aqqui](https://www.botnroll.com/img/cms/MKS-Gen-L.pdf)
 
+### Tutorial do Chris Rilery sobre sensorless no TMC2209
+Clique [aqui](https://www.youtube.com/watch?v=H5ea2iyOscg)
+
 ### Documentação bem completa sobre a RAMPS 1.6 - RepRap
 Atentar para o tópico Warning que alerta sobre um erro na placa que joga o pino de 5V para GND.
 
