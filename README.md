@@ -6,6 +6,8 @@
 
 [Visão to topo](https://github.com/edilsoncorrea/MKS-GEN_L/blob/master/hardware/MKS%20Gen_L%20V2.1_001/MKS%20GEN_L%20V2.1_001%20TOP.pdf)
 
+Manual da placa no site da Makerbase versão 1. Clique [aqqui](https://www.botnroll.com/img/cms/MKS-Gen-L.pdf)
+
 ### Documentação bem completa sobre a RAMPS 1.6 - RepRap
 Atentar para o tópico Warning que alerta sobre um erro na placa que joga o pino de 5V para GND.
 
