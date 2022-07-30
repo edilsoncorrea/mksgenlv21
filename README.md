@@ -10,7 +10,7 @@
 [clique aqui](https://github.com/edilsoncorrea/MKS-GEN_L/blob/master/hardware/MKS%20Gen_L%20V2.1_001/MKS%20GEN_L%20V2.1_001%20TOP.pdf)
 
 ### Pinagem da minha montagem
-(Pinout1.jpg)
+![Teste](/Pinout1.jpg "Teste")
 
 Manual da placa no site da Makerbase versão 1. [Clique aqui](https://www.botnroll.com/img/cms/MKS-Gen-L.pdf)
 
@@ -33,11 +33,6 @@ Clique [TMC2209 Stepper Drivers - Bigtreetech - SKR 1.3 - Install - Chris's Base
 Outro tutorial de outra placa de Jo Info Tech [Configurando SKR 1.4 Turbo com TMC 2209 em UART com Sensorless Sem cortar pinos]
 (https://www.youtube.com/watch?v=gVMiEtfK9S8&t=1075s)
 
-## Documentação bem completa sobre a RAMPS 1.6 - RepRap
-Atentar para o tópico Warning que alerta sobre um erro na placa que joga o pino de 5V para GND.
-
-[RAMPS 1.6 - RepRap](https://reprap.org/wiki/RAMPS_1.6)
-
-Para verificar o diagrama esquemático clique [aqui](https://github.com/bigtreetech/ramps-1.6/blob/master/Ramps1.6/hardware/R6Schematic%20diagram.pdf)
-
-[JPG com o esquema de conectores da Ramp 1.6](https://reprap.org/wiki/File:RAMPS1-6connectors.jpg)
+## Ramps 1.6 - RepRap
+Documentação sobre a Ramps 1.6.Reprap e diversas configurações, inclusive para utilização de sensor de auto nivelamento e display LCD gráfico
+[aqui](https://github.com/edilsoncorrea/ramps16reprap)
