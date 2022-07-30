@@ -40,4 +40,4 @@ Atentar para o tópico Warning que alerta sobre um erro na placa que joga o pino
 
 Para verificar o diagrama esquemático clique [aqui](https://github.com/bigtreetech/ramps-1.6/blob/master/Ramps1.6/hardware/R6Schematic%20diagram.pdf)
 
-![JPG com o esquema de conectores da Ramp 1.6](https://reprap.org/wiki/File:RAMPS1-6connectors.jpg "")
+![JPG com o esquema de conectores da Ramp 1.6](https://reprap.org/wiki/File:RAMPS1-6connectors.jpg "Teste")
