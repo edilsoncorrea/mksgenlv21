@@ -10,7 +10,7 @@
 [clique aqui](https://github.com/edilsoncorrea/MKS-GEN_L/blob/master/hardware/MKS%20Gen_L%20V2.1_001/MKS%20GEN_L%20V2.1_001%20TOP.pdf)
 
 ### Pinagem da minha montagem
-(Pinout1.png)
+![Teste](/Pinout1.jpg "Teste")
 
 Manual da placa no site da Makerbase versão 1. [Clique aqui](https://www.botnroll.com/img/cms/MKS-Gen-L.pdf)
 
