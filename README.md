@@ -35,4 +35,4 @@ Outro tutorial de outra placa de Jo Info Tech [Configurando SKR 1.4 Turbo com TM
 
 ## Ramps 1.6 - RepRap
 Documentação sobre a Ramps 1.6.Reprap e diversas configurações, inclusive para utilização de sensor de auto nivelamento e display LCD gráfico
-[aqui]([https://github.com/edilsoncorrea/ramps16reprap/edit/main/README.md](https://github.com/edilsoncorrea/ramps16reprap)
+[aqui](https://github.com/edilsoncorrea/ramps16reprap)
