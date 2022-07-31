@@ -14,6 +14,10 @@
 
 Manual da placa no site da Makerbase versão 1. [Clique aqui](https://www.botnroll.com/img/cms/MKS-Gen-L.pdf)
 
+
+## Sensorless Homing não funcionando
+[[BUG] TMC2209 Sensorless Homing not working #14464](https://github.com/MarlinFirmware/Marlin/issues/14464)
+
 ## Configurações para a Ender 3 que podem ser úteis para comparação
 [MKS GEN L V2 Marlin Firmware for Ender 3](https://github.com/MasterPuffin/MKS-GEN-L-V2-Marlin-Firmware-for-Ender-3)
 
