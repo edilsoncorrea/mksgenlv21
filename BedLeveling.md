@@ -268,3 +268,7 @@ Ajustar. Parece estar muito rápido
 ````
 HOMING_FEEDRATE_MM_M { (100*60), (100*60), (4*60) }
 ````
+
+````
+PROBE_OFFSET_WIZARD
+````
