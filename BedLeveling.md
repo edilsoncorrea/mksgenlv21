@@ -1,5 +1,14 @@
 ## Excelente tutorial sobre auto alinhamento do Eixo Z
+
+### Chris's Basement
 [All Things Z - Deep Dive - Marlin Tricks - Chris's Basement](https://www.youtube.com/watch?v=3jAFQdTk8iw)
+
+### 3D Printscape
+[Z-Offset Wizard Overview])(https://www.youtube.com/watch?v=2gRfU26aTDs
+
+
+### Teaching Tech
+[ABL offset guide including new probe Z offset wizard](https://www.youtube.com/watch?v=fN_ndWvXGBQ)
 
 ````
 STRING_CONFIG_H_AUTHOR
