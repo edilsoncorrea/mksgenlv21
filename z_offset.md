@@ -6,6 +6,6 @@ Em impressoras com BLTouch ou 3D Touch o ponto zero do eixo Z da mesa é determi
 
 Se executarmos um comandos que sobe o eixo Z em, digamos, 5 mm e em seguinda jogar os eixos X e Y para o centro da mesa, e em seguida descermos o bico gradativamente até que este prenda levemente um pedaço de papel, o valor que estiver mostrando no eixo Z será o valor do offset do eixo Z. Este valor deverá ser informado no item de menu de ofsset do eixo Z e estará muito próximo do valor final de offset.
 
-![Z_Offset](/Z_offset.png "Offset Z")  
+![Z_Offset](/Z_offset.jpg "Offset Z")  
 
 
