@@ -11,4 +11,3 @@ Se executarmos um comando que sobe o eixo Z em, digamos, 5 mm, em seguinda jogar
 
 
 ### Quando o sensor de auto nivelamento e o sensor de endstop do Eixo são independentes
-A diferença entre a ponta do bico e a ponta da sonda quando está liberada chama-se offset.
