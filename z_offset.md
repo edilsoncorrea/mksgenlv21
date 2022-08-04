@@ -8,3 +8,4 @@ Se executarmos um comando que sobe o eixo Z em, digamos, 5 mm, em seguinda jogar
 
 
 
+![Z_Offset](/Z_offset.jpg "Z Offset")
