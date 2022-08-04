@@ -192,7 +192,7 @@ DEACTIVATE_SERVOS_AFTER_MOVE
 EDITABLE_SERVO_ANGLES
 ````
 
-Os vaores padrão para para os eixos X, Y e Z são, respecitivamenteo, { 5, 5, 2 }. Alterei para { 0, 0, 0 }. Antes da troca do senso mecânico para o ótico no eixo Z, estava { 0, 0, 2 }, por causa da rebatida do eixo Z. Esse movimento extra voltava a lâmina do switch para o ponto de repouso, para reamar devagar. Com o sensor ótico, essa rebatida não faz mais sentido.
+Os valores padrão para os eixos X, Y e Z são, respecitivamente, { 5, 5, 2 }. Alterei para { 0, 0, 0 }. Antes da troca do sensor mecânico para o ótico no eixo Z, estava { 0, 0, 2 }, por causa da rebatida do eixo Z. Esse movimento extra voltava a lâmina do switch para o ponto de repouso, para reamar devagar. Com o sensor ótico, essa rebatida não faz mais sentido.
 ````
 HOMING_BUMP_MM
 ````
