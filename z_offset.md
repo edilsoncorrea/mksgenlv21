@@ -1,5 +1,7 @@
 ## Offset do Eixo Z
 
+
+### QUando o sensor de auto nivelamento também é o endstop do eixo Z
 A diferença entre a ponta do bico e a ponta da sonda quando está liberada chama-se offset. 
 
 Em impressoras com BLTouch ou 3D Touch o ponto zero do eixo Z da mesa é determinado pela sonda. Sendo assim, quando executamos um Auto Home e os 3 eixos ficam em 0, a sonda está exatamente no mesmo nível da mesa. O eixo Z é zerado.
