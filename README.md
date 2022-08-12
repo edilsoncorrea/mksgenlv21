@@ -2,6 +2,8 @@
 
 [Documentação geral sobre as controladoras Makerbase MKS Gen](https://github.com/edilsoncorrea/MKS-GEN_L)
 
+[Documentação específica da MKS Gen L v.2.1](https://github.com/makerbase-mks/MKS-GEN_L/wiki/MKS_GEN_L_V2)
+
 ## Imagens da placa de circuito impresso
 
 ### Para verificar uma lista de todos os PDFs em vários ângulos, inclusive um com o diagrama esquemático, [clique aqui](https://github.com/edilsoncorrea/MKS-GEN_L/tree/master/hardware/MKS%20Gen_L%20V2.1_001)
