@@ -16,6 +16,9 @@
 
 Manual da placa no site da Makerbase versão 1. [Clique aqui](https://www.botnroll.com/img/cms/MKS-Gen-L.pdf)
 
+### Big Tree Tech Mini 12864 V1.0
+[Mini12864 Panel](https://wiki.fysetc.com/Mini12864_Panel/)
+
 
 ## Sensorless Homing não funcionando
 [[BUG] TMC2209 Sensorless Homing not working #14464](https://github.com/MarlinFirmware/Marlin/issues/14464)
