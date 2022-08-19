@@ -21,6 +21,8 @@ Manual da placa no site da Makerbase versão 1. [Clique aqui](https://www.botnro
 
 [mini12864 + marlin](https://reprap.org/forum/read.php?415,884459)
 
+[BTT Mini12864 V1.0User Manual](https://github.com/bigtreetech/BTT-Expansion-module/blob/master/BTT%20Mini12864/BTT%20Mini12864%20V1.0User%20Manual.pdf)
+
 
 ## Sensorless Homing não funcionando
 [[BUG] TMC2209 Sensorless Homing not working #14464](https://github.com/MarlinFirmware/Marlin/issues/14464)
