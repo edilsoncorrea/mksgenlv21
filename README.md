@@ -18,6 +18,7 @@ Manual da placa no site da Makerbase versão 1. [Clique aqui](https://www.botnro
 
 ### Big Tree Tech Mini 12864 V1.0
 [Mini12864 Panel](https://wiki.fysetc.com/Mini12864_Panel/)
+[mini12864 + marlin](https://reprap.org/forum/read.php?415,884459)
 
 
 ## Sensorless Homing não funcionando
