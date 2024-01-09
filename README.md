@@ -33,6 +33,9 @@ Manual da placa no site da Makerbase versão 1. [Clique aqui](https://www.botnro
 ## Tutorial sobre a MKS Gen L e o TMC2209 
 Este documento é extenso e detalhado, incluindo os jumpers para sensorless. Leitura completa recomendada. [Clique aqui](https://github.com/makerbase-mks/MKS-GEN_L/wiki/Drivers_MKS_TMC2209)
 
+### Jumpers para Drivers 4988, 8825 e 8729
+![Junpers](/stepdriverjumpers.jpg "Junpers")
+
 ## Configurações sobre auto nivelamento
 [Clique aqui](https://github.com/edilsoncorrea/mksgenlv21/blob/main/BedLeveling.md)
 
