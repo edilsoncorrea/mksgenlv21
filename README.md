@@ -26,6 +26,7 @@ Manual da placa no site da Makerbase versão 1. [Clique aqui](https://www.botnro
 
 ## Sensorless Homing não funcionando
 [[BUG] TMC2209 Sensorless Homing not working #14464](https://github.com/MarlinFirmware/Marlin/issues/14464)
+
 [Video com sensorless funcionando na MKS Gen L v2.0](https://www.youtube.com/watch?v=Sua1NdiCq4M)
 
 ## Configurações para a Ender 3 que podem ser úteis para comparação
